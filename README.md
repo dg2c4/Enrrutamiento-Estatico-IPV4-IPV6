@@ -15,7 +15,7 @@ El propósito de este ejercicio es diseñar e implementar una topología de red 
 
 ## *Resultado del trabajo realizado:*
 <p align="center">
-  <img width="800" height="500" src="https://github.com/dg2c4/Enrrutamiento-Estatico-IPV6/blob/main/Assets/Enrrutamiento-IPV6.png" alt="IPV6-RedesComunicacion-I">
+  <img width="900" height="500" src="https://github.com/dg2c4/Enrrutamiento-Estatico-IPV6/blob/main/Assets/Enrrutamiento-IPV6.png" alt="IPV6-RedesComunicacion-I">
 </p>
 <p align="center">
   <img width="800" height="500" src="" alt="Enrrutamiento-Estatico-RedesComunicacion-I">
