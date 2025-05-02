@@ -1,7 +1,7 @@
 # *Enrrutamiento-Protocolo-Estandar*
 
 <p align="center">
-  <img width="800" height="500" src="" alt="Enrrutamiento-Protocolo-Estandar">
+  <img width="800" height="500" src="https://github.com/dg2c4/Enrrutamiento-Protocolo-Estandar/blob/main/Assets/Enrrutamiento-Protocolo-Estandar.png" alt="Enrrutamiento-Protocolo-Estandar">
 </p>
 
 ## *Objetivo:*
