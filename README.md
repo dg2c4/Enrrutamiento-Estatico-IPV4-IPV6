@@ -1,11 +1,11 @@
-# *Enrrutamiento Estático*
+# *Enrrutamiento Estático IPV6*
 
 <p align="center">
   <img width="800" height="500" src="https://github.com/dg2c4/Enrrutamiento-Protocolo-Estandar/blob/main/Assets/Enrrutamiento-Protocolo-Estandar.png" alt="Enrrutamiento-Protocolo-Estandar">
 </p>
 
 ## *Objetivo:*
-El propósito de este ejercicio es diseñar e implementar una topología de red en Cisco Packet Tracer, simulando la estructura de una red. Se busca configurar y verificar la conectividad entre dispositivos, asignar direcciones IP y enrrutamiento.
+El propósito de este ejercicio es diseñar e implementar una topología de red en Cisco Packet Tracer, simulando la estructura de una red con enrrutamiento IPV6. Se busca configurar y verificar la conectividad entre dispositivos, asignar direcciones IP y enrrutamiento.
 
 ## *Instalaciones requeridas:*
   • Descarga de Cisco Packet Tracer:
@@ -13,17 +13,12 @@ El propósito de este ejercicio es diseñar e implementar una topología de red 
     https://learningnetwork.cisco.com/s/article/el-software-de-simulacion-cisco-packet-tracer
 
 
-## *Arquitectura Del Programa:*
-<p align="center">
-  <img width="800" height="500" src="" alt="RedesComunicacion-I">
-</p>
-
-## *Pasos a seguir:*
--- -- --
-
 ## *Resultado del trabajo realizado:*
 <p align="center">
-  <img width="800" height="500" src="" alt="RedesComunicacion-I">
+  <img width="800" height="500" src="https://github.com/dg2c4/Enrrutamiento-Estatico-IPV6/blob/main/Assets/Enrrutamiento-IPV6.png" alt="IPV6-RedesComunicacion-I">
+</p>
+<p align="center">
+  <img width="800" height="500" src="" alt="Enrrutamiento-Estatico-RedesComunicacion-I">
 </p>
 
 ## *Entregable:*
