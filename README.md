@@ -14,18 +14,20 @@ El propósito de este ejercicio es diseñar e implementar una topología de red 
 
 
 ## *Resultado del trabajo realizado:*
-
+Ejercicio Enrrutamiento IPV4.
 <p align="center">
   <img width="800" height="500" src="https://github.com/dg2c4/Enrrutamiento-Estatico-IPV4-IPV6/blob/main/Assets/Enrrutamiento-IPV4.png" alt="Enrrutamiento-IPV4-RedesComunicacion-I">
 </p>
 
+Ejercicio Enrrutamiento IPV6.
 <p align="center">
   <img width="800" height="500" src="https://github.com/dg2c4/Enrrutamiento-Estatico-IPV6/blob/main/Assets/Enrrutamiento-IPV6.png" alt="Enrrutamiento-IPV6-RedesComunicacion-I">
 </p>
 
 ## *Entregable:*
 • Archivo de la configuración de servicios del archivo correspondiente.\
-• Documentación de información y explicación teorica para realizar el ejercicio.
+• Documentación de información y explicación teorica para realizar el ejercicio Enrrutamiento IPV4.\
+• Documentación de información y explicación teorica para realizar el ejercicio Enrrutamiento IPV6.
 
 ## *Systems engineering:*
 | User: | David Gutierrez Chaves |
